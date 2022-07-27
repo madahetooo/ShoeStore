@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="hello_there">Hello There</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continuo">Login to continuo</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_our_shoe_inventory_app">Welcome to Our Shoe Inventory App</string>
+    <string name="we_have_an_awesome_list_to_show_you">We have an Awesome List to show you</string>
+    <string name="please_dont_share_this_shoe_list_with_anyone">Please do not share this shoe list with Anyone</string>
+    <string name="feel_free_to_give_us_feedback">Feel free to give us Feedback</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_string_fragment_login">Email</string>
+    <string name="password_string_fragment_login">Password</string>
+    <string name="register_string_fragment_login">Register</string>
+    <string name="login_string_fragment_login">Login</string>
+    <string name="welcome_string_fragment_welcome">Welcome!</string>
+    <string name="details_string_fragment_welcome">Hi %1$s, please click Instructions to continue.</string>
+    <string name="next_string_fragment_welcome">Next</string>
+    <string name="instruction_string_fragment_instructions">Instructions</string>
+    <string name="details_string_fragment_instruction">Next page comprises of a list of shoes. Click next to continue</string>
+    <string name="details2_string_fragment_instructions">Click Next to continue.</string>
+    <string name="details1_string_fragment_instruction">Please choose your shoes from the shoe list.</string>
+    <string name="shoe1_string">Shoe1</string>
+    <string name="shoe2_string">Shoe2</string>
+</resources>
